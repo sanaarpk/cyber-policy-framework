@@ -6,7 +6,7 @@
 
 ## 1. Why this process exists
 
-Not every system can meet every Standard on day one — legacy platforms, vendor constraints, or delivery timelines sometimes make full compliance impractical in the short term. The Waiver process exists so that gap is **knowingly accepted at the right level, time-bound, and tracked to closure** — rather than silently absorbed and forgotten, which is how governance gaps like the ones identified in the Northbridge IIoT audit (Project 1) go undetected for a decade.
+Not every system can meet every Standard on day one; legacy platforms, vendor constraints, or delivery timelines sometimes make full compliance impractical in the short term. The Waiver process exists so that gap is **knowingly accepted at the right level, time-bound, and tracked to closure** rather than silently absorbed and forgotten, which is how governance gaps like the ones identified in the Northbridge IIoT audit (Project 1) go undetected for a decade.
 
 A Waiver is not a way around a Standard. It's a record that says: *we know we don't meet this requirement, here's why, here's what we're doing to reduce the risk in the meantime, and here's when it stops being acceptable.*
 
@@ -15,7 +15,7 @@ A Waiver is not a way around a Standard. It's a record that says: *we know we do
 A Waiver must be raised **before** a system goes live, or **immediately** on discovering existing non-compliance, whenever a system or process cannot meet a mandatory requirement in the Cyber & Information Resilience Policy or its supporting Standards. Examples from the Northbridge context:
 
 - A legacy building management system that cannot support MFA (a real constraint identified in the Honeywell XL Web II evaluation in Project 1)
-- A vendor-managed device where firmware updates are outside Northbridge's direct control
+- A vendor-managed device where firmware updates are outside Zodiac's direct control
 - A time-limited pilot deployment where full network segmentation isn't yet built
 
 ## 3. Process Flow
@@ -40,7 +40,7 @@ A Waiver must be raised **before** a system goes live, or **immediately** on dis
    Waiver status reviewed monthly; owner reminded ahead of expiry
    ↓
 6. CLOSURE OR RENEWAL
-   Either the underlying gap is fixed and the Waiver is closed,
+   Either the underlying gap is fixed, and the Waiver is closed,
    or a renewal is requested with updated justification —
    Waivers do not renew automatically
 ```
