@@ -1,4 +1,4 @@
-# Northbridge Financial plc — Cyber & Information Resilience Policy
+# Zodiac Financial plc — Cyber & Information Resilience Policy
 
 | | |
 |---|---|
@@ -7,21 +7,21 @@
 | **Classification** | Internal |
 | **Version** | 1.0 |
 | **Review Cycle** | Annual, or on material change |
-| **Applies To** | All employees, contractors, and third parties with access to Northbridge systems, data, or connected devices |
+| **Applies To** | All employees, contractors, and third parties with access to Zodiac systems, data, or connected devices |
 
 ---
 
 ## 1. Purpose
 
-This policy sets out Northbridge Financial plc's mandatory requirements for protecting the confidentiality, integrity, and availability of its information assets, systems, and connected devices (including Operational Technology and IoT where applicable across the estate). It establishes the principles that all Standards, Procedures, and Guidelines within the Cyber & Information Resilience Framework must support.
+This policy sets out Zodiac Financial plc's mandatory requirements for protecting the confidentiality, integrity, and availability of its information assets, systems, and connected devices (including Operational Technology and IoT where applicable across the estate). It establishes the principles that all Standards, Procedures, and Guidelines within the Cyber & Information Resilience Framework must support.
 
 ## 2. Scope
 
-This policy applies to all Northbridge-owned or Northbridge-managed technology, all data processed on behalf of Northbridge, and all personnel and third parties with access to either. It covers, without limitation: corporate IT systems, customer-facing platforms, physical security and building management systems, and any Internet of Things (IoT) or Industrial IoT devices connected to Northbridge networks.
+This policy applies to all Zodiac-owned or Zodiac-managed technology, all data processed on behalf of Zodiac, and all personnel and third parties with access to either. It covers, without limitation: corporate IT systems, customer-facing platforms, physical security and building management systems, and any Internet of Things (IoT) or Industrial IoT devices connected to Zodiac networks.
 
 ## 3. Policy Statement
 
-Northbridge Financial plc is committed to managing cyber risk in line with its Board-approved risk appetite, applicable regulatory obligations (including FCA requirements, UK GDPR, and the NIS Regulations where relevant), and recognised industry standards including ISO/IEC 27001, the NIST Cybersecurity Framework, and the NCSC Cyber Assessment Framework.
+Zodiac Financial plc is committed to managing cyber risk in line with its Board-approved risk appetite, applicable regulatory obligations (including FCA requirements, UK GDPR, and the NIS Regulations where relevant), and recognised industry standards including ISO/IEC 27001, the NIST Cybersecurity Framework, and the NCSC Cyber Assessment Framework.
 
 ## 4. Core Requirements
 
