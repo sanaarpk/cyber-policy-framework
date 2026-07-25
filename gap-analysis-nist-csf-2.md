@@ -1,4 +1,4 @@
-# Gap Analysis: Northbridge Cyber Policy Framework vs NIST CSF 2.0
+# Gap Analysis: Zodiac Cyber Policy Framework vs NIST CSF 2.0
 
 *Companion to the [Cyber & Information Resilience Policy](./README.md) — demonstrating the horizon-scanning and gap-analysis activity described in the framework's governance model*
 
@@ -6,7 +6,7 @@
 
 ## 1. Why this analysis
 
-NIST released Cybersecurity Framework (CSF) 2.0 in February 2024 — the first major revision since the original 2014 framework. Northbridge's policy framework in this repository was built with NIST CSF's five original functions in mind (Identify, Protect, Detect, Respond, Recover). This is a worked example of the kind of horizon-scanning exercise a Cyber Policy Lead would run whenever a referenced standard changes: does the current framework still meet the standard it claims to follow, and what needs updating.
+NIST released the Cybersecurity Framework (CSF) 2.0 in February 2024 — the first major revision since the original 2014 framework. Zodiac's policy framework in this repository was built with NIST CSF's five original functions in mind (Identify, Protect, Detect, Respond, Recover). This is a worked example of the kind of horizon-scanning exercise a Cyber Policy Lead would run whenever a referenced standard changes: does the current framework still meet the standard it claims to follow, and what needs updating.
 
 ## 2. What actually changed in CSF 2.0
 
