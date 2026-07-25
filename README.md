@@ -1,4 +1,4 @@
-# Northbridge Financial plc — Cyber & Information Resilience Policy
+# Zodiac Financial plc — Cyber & Information Resilience Policy
 
 | | |
 |---|---|
@@ -7,28 +7,28 @@
 | **Classification** | Internal |
 | **Version** | 1.0 |
 | **Review Cycle** | Annual, or on material change |
-| **Applies To** | All employees, contractors, and third parties with access to Northbridge systems, data, or connected devices |
+| **Applies To** | All employees, contractors, and third parties with access to Zodiac systems, data, or connected devices |
 
 ---
 
 ## 1. Purpose
 
-This policy sets out Northbridge Financial plc's mandatory requirements for protecting the confidentiality, integrity, and availability of its information assets, systems, and connected devices (including Operational Technology and IoT where applicable across the estate). It establishes the principles that all Standards, Procedures, and Guidelines within the Cyber & Information Resilience Framework must support.
+This policy sets out Zodiac Financial plc's mandatory requirements for protecting the confidentiality, integrity, and availability of its information assets, systems, and connected devices (including Operational Technology and IoT where applicable across the estate). It establishes the principles that all Standards, Procedures, and Guidelines within the Cyber & Information Resilience Framework must support.
 
 ## 2. Scope
 
-This policy applies to all Northbridge-owned or Northbridge-managed technology, all data processed on behalf of Northbridge, and all personnel and third parties with access to either. It covers, without limitation: corporate IT systems, customer-facing platforms, physical security and building management systems, and any Internet of Things (IoT) or Industrial IoT devices connected to Northbridge networks.
+This policy applies to all Zodiac-owned or Zodiac-managed technology, all data processed on behalf of Zodiac, and all personnel and third parties with access to either. It covers, without limitation: corporate IT systems, customer-facing platforms, physical security and building management systems, and any Internet of Things (IoT) or Industrial IoT devices connected to Zodiac networks.
 
 ## 3. Policy Statement
 
-Northbridge Financial plc is committed to managing cyber risk in line with its Board-approved risk appetite, applicable regulatory obligations (including FCA requirements, UK GDPR, and the NIS Regulations where relevant), and recognised industry standards including ISO/IEC 27001, the NIST Cybersecurity Framework, and the NCSC Cyber Assessment Framework.
+Zodiac Financial plc is committed to managing cyber risk in line with its Board-approved risk appetite, applicable regulatory obligations (including FCA requirements, UK GDPR, and the NIS Regulations where relevant), and recognised industry standards including ISO/IEC 27001, the NIST Cybersecurity Framework, and the NCSC Cyber Assessment Framework.
 
 ## 4. Core Requirements
 
 | # | Requirement | Rationale |
 |---|---|---|
-| 4.1 | All systems and devices must be recorded in a maintained asset inventory before being connected to any Northbridge network. | An unrecorded device cannot be risk-assessed, patched, or monitored — see Project 1 finding R1/R7. |
-| 4.2 | Default credentials must be changed and Multi-Factor Authentication enforced on all systems supporting it, before go-live. | Default/weak credentials were the root cause of the two highest-severity risks identified in the Northbridge IIoT audit (Case Study 1). |
+| 4.1 | All systems and devices must be recorded in a maintained asset inventory before being connected to any Zodiac network. | An unrecorded device cannot be risk-assessed, patched, or monitored — see Project 1 finding R1/R7. |
+| 4.2 | Default credentials must be changed and Multi-Factor Authentication enforced on all systems supporting it, before go-live. | Default/weak credentials were the root cause of the two highest-severity risks identified in the Zodiac IIoT audit (Case Study 1). |
 | 4.3 | All systems must be maintained on vendor-supported software/firmware versions, with critical patches applied within Board-approved timeframes. | Directly addresses outdated-software risk (R6) and centralised platform compromise (R7). |
 | 4.4 | Network segmentation must separate IoT/OT devices from core IT and safety-critical infrastructure. | Prevents lateral movement from a compromised low-trust device to high-value systems. |
 | 4.5 | Any deviation from a mandatory Standard requires an approved Policy Waiver before implementation — see Section 6. | Ensures risk is knowingly accepted at the appropriate level, not silently absorbed. |
