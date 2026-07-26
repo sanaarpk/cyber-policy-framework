@@ -65,4 +65,4 @@ This policy is supported by a framework of Standards, Procedures, and Guidelines
 - [Risk Acceptance Process](./risk-acceptance-process.md) — the escalation path for gaps that won't be fixed on any near-term timeline, distinct from a Waiver, with a worked example
 - [Gap Analysis — NIST CSF 2.0](./gap-analysis-nist-csf-2.md) — a horizon-scanning exercise assessing this framework against the current version of NIST CSF, identifying required updates
 
-*This is a fictional case study built for portfolio purposes, developed as a companion piece to the IIoT Airport Risk Assessment repository — that project surfaces the kind of findings (weak credentials, unpatched centralised platforms) this framework is designed to catch before they happen.*
+*This is a fictional case study built for portfolio purposes, developed as a companion piece to the IIoT Airport Risk Assessment repository that the project surfaces the kind of findings (weak credentials, unpatched centralised platforms) this framework is designed to catch before they happen.*
