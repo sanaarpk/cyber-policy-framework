@@ -46,7 +46,7 @@ Zodiac Financial plc is committed to managing cyber risk in line with its Board-
 
 ## 6. Exceptions and Waivers
 
-Where a system or business need cannot meet a mandatory requirement, a Policy Waiver must be raised, risk-assessed, time-bound, and approved at a level proportionate to the residual risk (see the [Policy Waiver Process](./policy-waiver-process.md)). Waivers do not remove a requirement — they record a knowingly accepted, time-limited exception.
+Where a system or business need cannot meet a mandatory requirement, a Policy Waiver must be raised, risk-assessed, time-bound, and approved at a level proportionate to the residual risk (see the [Policy Waiver Process](./policy-waiver-process.md)). Waivers do not remove a requirement; they record a knowingly accepted, time-limited exception.
 
 ## 7. Non-Compliance
 
